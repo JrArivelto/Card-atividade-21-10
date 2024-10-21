@@ -1,0 +1,22 @@
+body{
+    align-items: center;
+    display: flex;
+    justify-content: center;
+}
+
+.card{
+    border: 5px solid;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.imagem{
+    padding: 5px;
+}
+
+p{
+    background-color: white;
+    width: 150px;
+}
